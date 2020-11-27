@@ -12422,6 +12422,60 @@
         }
       },
       {
+        "HashCode": 821313631,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__InfoProdutosViewComponentTagHelper",
+        "AssemblyName": "SiteBibliotecaMVC",
+        "CaseSensitive": false,
+        "TagMatchingRules": [],
+        "Diagnostics": [
+          {
+            "Id": "RZ3900",
+            "Severity": 3,
+            "Message": "Could not find an 'Invoke' or 'InvokeAsync' method for the view component 'ViewComponent.InfoProdutosViewComponent'.",
+            "Span": {
+              "FilePath": null,
+              "AbsoluteIndex": -1,
+              "LineIndex": -1,
+              "CharacterIndex": -1,
+              "Length": 0
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__InfoProdutosViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "InfoProdutos"
+        }
+      },
+      {
+        "HashCode": 42203595,
+        "Kind": "MVC.ViewComponent",
+        "Name": "__Generated__ListagemProdutosViewComponentTagHelper",
+        "AssemblyName": "SiteBibliotecaMVC",
+        "CaseSensitive": false,
+        "TagMatchingRules": [],
+        "Diagnostics": [
+          {
+            "Id": "RZ3900",
+            "Severity": 3,
+            "Message": "Could not find an 'Invoke' or 'InvokeAsync' method for the view component 'ViewComponent.ListagemProdutosViewComponent'.",
+            "Span": {
+              "FilePath": null,
+              "AbsoluteIndex": -1,
+              "LineIndex": -1,
+              "CharacterIndex": -1,
+              "Length": 0
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "ITagHelper",
+          "Common.TypeName": "__Generated__ListagemProdutosViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "ListagemProdutos"
+        }
+      },
+      {
         "HashCode": 1912741130,
         "Kind": "Components.Bind",
         "Name": "Bind",
@@ -14402,13 +14456,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Home\\Components\\Default.cshtml",
-      "TargetPath": "Views\\Home\\Components\\Default.cshtml",
+      "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Livros\\Delete.cshtml",
+      "TargetPath": "Views\\Livros\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Livros\\Delete.cshtml",
-      "TargetPath": "Views\\Livros\\Delete.cshtml",
+      "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Home\\Components\\InfoProduto\\Default.cshtml",
+      "TargetPath": "Views\\Home\\Components\\InfoProduto\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14429,6 +14483,11 @@
     {
       "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\picci\\Desktop\\SiteBibliotecaMVC\\Views\\Home\\Components\\ListagemProdutos\\Default.cshtml",
+      "TargetPath": "Views\\Home\\Components\\ListagemProdutos\\Default.cshtml",
       "FileKind": "mvc"
     },
     {
