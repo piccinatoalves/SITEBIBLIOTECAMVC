@@ -1,4 +1,4 @@
-namespace SiteBibliotecaMVC.Application.ViewModels
+namespace SiteBibliotecaMVC.Models.ViewModels
 {
     public class LivroViewModel
     {

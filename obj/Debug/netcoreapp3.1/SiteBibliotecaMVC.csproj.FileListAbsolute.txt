@@ -115,4 +115,5 @@ C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Liv
 C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Livros\Details.cshtml.g.cs
 C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Livros\Edit.cshtml.g.cs
 C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Livros\List.cshtml.g.cs
-C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Default.cshtml.g.cs
+C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\InfoProduto\Default.cshtml.g.cs
+C:\Users\picci\Desktop\SiteBibliotecaMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\ListagemProdutos\Default.cshtml.g.cs

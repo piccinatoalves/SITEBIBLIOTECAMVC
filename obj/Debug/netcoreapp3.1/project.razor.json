@@ -12422,57 +12422,37 @@
         }
       },
       {
-        "HashCode": 821313631,
+        "HashCode": 1364937919,
         "Kind": "MVC.ViewComponent",
-        "Name": "__Generated__InfoProdutosViewComponentTagHelper",
+        "Name": "__Generated__InfoProdutoViewComponentTagHelper",
         "AssemblyName": "SiteBibliotecaMVC",
         "CaseSensitive": false,
-        "TagMatchingRules": [],
-        "Diagnostics": [
+        "TagMatchingRules": [
           {
-            "Id": "RZ3900",
-            "Severity": 3,
-            "Message": "Could not find an 'Invoke' or 'InvokeAsync' method for the view component 'ViewComponent.InfoProdutosViewComponent'.",
-            "Span": {
-              "FilePath": null,
-              "AbsoluteIndex": -1,
-              "LineIndex": -1,
-              "CharacterIndex": -1,
-              "Length": 0
-            }
+            "TagName": "vc:info-produto"
           }
         ],
         "Metadata": {
           "Runtime.Name": "ITagHelper",
-          "Common.TypeName": "__Generated__InfoProdutosViewComponentTagHelper",
-          "MVC.ViewComponent.Name": "InfoProdutos"
+          "Common.TypeName": "__Generated__InfoProdutoViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "InfoProduto"
         }
       },
       {
-        "HashCode": 42203595,
+        "HashCode": -601589805,
         "Kind": "MVC.ViewComponent",
-        "Name": "__Generated__ListagemProdutosViewComponentTagHelper",
+        "Name": "__Generated__ListagemLivrosViewComponentTagHelper",
         "AssemblyName": "SiteBibliotecaMVC",
         "CaseSensitive": false,
-        "TagMatchingRules": [],
-        "Diagnostics": [
+        "TagMatchingRules": [
           {
-            "Id": "RZ3900",
-            "Severity": 3,
-            "Message": "Could not find an 'Invoke' or 'InvokeAsync' method for the view component 'ViewComponent.ListagemProdutosViewComponent'.",
-            "Span": {
-              "FilePath": null,
-              "AbsoluteIndex": -1,
-              "LineIndex": -1,
-              "CharacterIndex": -1,
-              "Length": 0
-            }
+            "TagName": "vc:listagem-livros"
           }
         ],
         "Metadata": {
           "Runtime.Name": "ITagHelper",
-          "Common.TypeName": "__Generated__ListagemProdutosViewComponentTagHelper",
-          "MVC.ViewComponent.Name": "ListagemProdutos"
+          "Common.TypeName": "__Generated__ListagemLivrosViewComponentTagHelper",
+          "MVC.ViewComponent.Name": "ListagemLivros"
         }
       },
       {

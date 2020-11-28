@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace SiteBibliotecaMVC.Application.ViewModels
+namespace SiteBibliotecaMVC.Models.ViewModels
 {
     public class LivroListViewModel
     {

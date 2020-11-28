@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Models;
-using SiteBibliotecaMVC.Application.ViewModels;
+using SiteBibliotecaMVC.Models.ViewModels;
 //using Newtonsoft.Json;
 
 
